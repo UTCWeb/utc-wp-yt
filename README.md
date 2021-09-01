@@ -1,2 +1,4 @@
 # utc-wp-yt
-This plugin is an open source WordPress plugin that filters unwanted video recommendations as well as limiting branding and controls in YouTube embeds.
+
+This plugin is an open source WordPress plugin that filters unwanted video recommendations and limits YT branding and controls to YouTube embeds.
+
